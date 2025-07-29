@@ -18,10 +18,10 @@ Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el de
 
 ---
 
-#### ⚡ Actividad reciente
+## Actividad reciente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 
 ![Snake animation](https://github.com/giuliagiacomodonato/giuliagiacomodonato/blob/output/github-contribution-grid-snake-dark.svg)

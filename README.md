@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Giulia
 
-Estudiante de Ingeniería en Sistemas de Información, apasionada por el desarrollo de software y la resolución de problemas. Actualmente en 4to año, combinando teoría con práctica para crear soluciones útiles y eficientes.
+Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el desarrollo de software. Me gusta enfrentar desafíos de programación que me permitan combinar creatividad con lógica para crear aplicaciones funcionales y con buena experiencia de usuario. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para crecer profesionalmente y aportar soluciones prácticas e innovadoras.
 
 ---
 

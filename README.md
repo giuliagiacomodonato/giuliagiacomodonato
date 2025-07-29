@@ -21,10 +21,8 @@ Estudiante de Ingeniería en Sistemas de Información, apasionada por el desarro
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
 
-#### 🖼️ Badge animado
+![Snake animation](https://github.com/giuliagiacomodonato/giuliagiacomodonato/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Snake animation](https://github.com/giuliagiacomodonato/giuliagiacomodonato/blob/output/github-contribution-grid-snake.svg)
 
 

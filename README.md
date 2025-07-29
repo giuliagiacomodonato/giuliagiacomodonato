@@ -2,6 +2,8 @@
 
 Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el desarrollo de software. Me gusta enfrentar desafíos de programación que me permitan combinar creatividad con lógica para crear aplicaciones funcionales y con buena experiencia de usuario. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para crecer profesionalmente y aportar soluciones prácticas e innovadoras.
 
+[Contacto](www.linkedin.com/in/giulia-giacomodonato)
+
 ---
 
 #### 📊 GitHub Stats

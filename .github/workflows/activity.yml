@@ -9,7 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@main
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: giuliagiacomodonato
           CONFIG_FILE: .github/recent-activity.config.yml

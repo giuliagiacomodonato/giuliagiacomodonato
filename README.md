@@ -21,6 +21,11 @@ Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el de
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [giuliagiacomodonato/Recitario](https://github.com/giuliagiacomodonato/Recitario)<br>
+2. 📔 Created new repository [giuliagiacomodonato/Recitario](https://github.com/giuliagiacomodonato/Recitario)<br>
+3. ⬆️ Pushed 1 commit(s) to [giuliagiacomodonato/TurnoLibre](https://github.com/giuliagiacomodonato/TurnoLibre)<br>
+4. 📔 Created new repository [giuliagiacomodonato/TurnoLibre](https://github.com/giuliagiacomodonato/TurnoLibre)<br>
+5. ⬆️ Pushed 1 commit(s) to [giuliagiacomodonato/giuliagiacomodonato](https://github.com/giuliagiacomodonato/giuliagiacomodonato)<br>
 <!--RECENT_ACTIVITY:end-->
 
 

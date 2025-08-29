@@ -21,7 +21,6 @@ Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el de
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [giuliagiacomodonato/TurnoLibre](https://github.com/giuliagiacomodonato/TurnoLibre)<br>
 <!--RECENT_ACTIVITY:end-->
 
 

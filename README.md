@@ -21,8 +21,6 @@ Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el de
 ## Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [dcm-uns/ej-git-teams](https://github.com/dcm-uns/ej-git-teams)<br>
-2. 🤝 Became collaborator on [dcm-uns/ej-git-teams](https://github.com/dcm-uns/ej-git-teams)<br>
 <!--RECENT_ACTIVITY:end-->
 
 

@@ -22,7 +22,6 @@ Soy estudiante de Ingeniería en Sistemas de Información y apasionada por el de
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [giuliagiacomodonato/DCICFLIX](https://github.com/giuliagiacomodonato/DCICFLIX)<br>
-2. ⬆️ Pushed undefined commit(s) to [giuliagiacomodonato/DCICFLIX](https://github.com/giuliagiacomodonato/DCICFLIX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
